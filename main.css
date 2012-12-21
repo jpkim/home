@@ -1,0 +1,174 @@
+main.css
+
+head {
+	font-family: Helvetica
+	color: grey;}
+.hi {
+	padding-left: 200px;
+	padding-bottom: 50px;
+	font-family: "helvetica light";
+	color: grey;
+	font-size: 48px
+}
+p1, p2 {
+	padding-left: 200px;
+	font-family: helvetica;
+	color: grey;
+	font-size: 24px
+}
+p1 a {
+	color: grey;
+	font-size: 24px;
+}
+p1 a:hover {
+	font-style: italic
+}
+.photo{
+	float: left; 
+	margin: 20px 0 0 0;
+	padding-left: 200px;
+}
+.list {
+	float: left;
+	margin: 10px;
+	margin-left: 100px;
+	width: 300px;
+}
+.list ul {
+	padding: 0;
+	list-style-type: none;
+}
+.contact, .find, .follow, .see, .email, .ESTJ, .who, .not, .go {
+	padding-bottom: 15px;
+}
+.contact, .contact a{
+	font-family: helvetica;
+	color: #CC0066;
+	font-size: 20px
+}
+.find, .find a{
+	font-family: helvetica;
+	color: #CC0033;
+	font-size: 20px
+
+}
+.follow, .follow a {
+	font-family: Helvetica;
+	color: #CC3333;
+	font-size: 20px
+}
+.see, .see a {
+	font-size: 20px;
+	font-family: helvetica;
+	color: #CC6633;
+}
+.email, .email a {
+	font-size: 20px;
+	font-family: helvetica;
+	color: #FFFF99;
+}
+.ESTJ, .ESTJ a {
+	font-size: 20px;
+	font-family: helvetica;
+	color: #99FF99
+}
+.who, .who a {
+	font-size: 20px;
+	font-family: helvetica;
+	color: #00FF99;
+}
+.not, .not a {
+	font-size: 20px;
+	font-family: helvetica;
+	color: #00FFFF;
+}
+.go, .go a {
+	font-size: 20px;
+	font-family: helvetica;
+	color: #33CCFF;
+}
+.indexbody {
+	background-color: black;
+}
+footer {
+	clear: both;
+}
+.bodypage {
+	background-color: black;
+	background-image: url('shark.jpg');
+	background-repeat: no-repeat;
+	background-position: center 0;
+}
+.stats {
+	color: red;
+	font-size: 18px;
+	font-family: calibri;
+	list-style-type: none;
+}
+.name {
+	font-size: 72px;
+	font-family: calibri;
+	text-align: center;
+}
+.left {
+	float: left;
+	margin-top: 50px;
+	width: 200px;
+}
+.self {
+	height: 100px;
+	width: 80px;
+}
+.middle { 
+	text-align: center;
+}
+iframe {
+	padding-top: 250px;
+	width: 300px;
+	height: 180px;
+}
+.right {
+	float:right;
+	margin-top: 200px;
+}
+.plays, .moves, .waves {
+	font-size: 15px;
+	color: blue;
+	font-family: calibri;
+	text-align: right;
+	letter-spacing: .2em;
+	word-spacing: .25em;
+}
+.luck {
+	font-size: 15px;
+	color:blue;
+	font-family: calibri;
+	text-align: right;
+}
+.plays:hover {
+	color:white;
+}
+.moves:hover {
+	font-weight: bold;
+	color:white;
+	letter-spacing: .3em;
+}
+.waves:hover {
+	font-weight: bold;
+	color:white;
+	font-style:italic;
+	letter-spacing: .4em;
+}
+.luck:hover {
+	color:black;
+}
+footer {
+	clear:both;
+	padding-top: 20px;
+}
+.last, a {
+	font-size: 15px;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
